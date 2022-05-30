@@ -1,0 +1,19 @@
+
+ul {
+    color: green;
+    background: red;
+}
+
+ol {
+    color: yellow;
+    background: blue;
+}
+
+.heading , .picture {
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+}
+
